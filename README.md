@@ -1,7 +1,3 @@
-# 💬 About Me:
-I'm a software developer skilled in Python, Java, and C# with a proven track record of successful project leadership. I'm committed to my current role but also eager to make valuable contributions to the industry and expand my horizons. I am confident that I can bring a positive impact to any team I work with and I look forward to exploring new possibilities for growth and building meaningful relationships within the tech community.
-
-
 ## 📫 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dylanparsons) 
 
