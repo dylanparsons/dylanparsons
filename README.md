@@ -1,6 +1,4 @@
-# Dylan Parsons
-
-Software developer with experience in C++, C#, and Python.
+Software engineer with experience in C++, C#, and Python.
 
 Currently working on quality control systems and automation software.
 
