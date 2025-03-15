@@ -3,7 +3,7 @@
 Software engineer working with C++, C#, and Python.
 
 ## What I do
-I build quality control systems and automation software for manufacturing. Currently at LiteSentry developing software for glass inspection systems that detect defects and ensure quality.
+I develop quality control software for glass manufacturing at LiteSentry to detect defects, measure distortion and stress in flat glass. 
 
 ## Tech I work with
 - C# / .NET for desktop applications and backend services
