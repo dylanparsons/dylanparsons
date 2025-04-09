@@ -1,23 +1,19 @@
-# Hi there, I'm Dylan 👋
+# Hey, I'm Dylan 👋
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=github)](https://github.com/sponsors/dylanparsons)
+I'm a software engineer who loves building high-performance tools for real-time systems, automation, and computer vision.
 
-Software engineer working with C++, C#, and Python.
+Whether it's speeding up complex workflows, solving tricky system bottlenecks, or building dev tools to save people time — I like working where performance and practicality meet.
 
-## What I do
-I develop quality control software for glass manufacturing at LiteSentry to detect defects, measure distortion and stress in flat glass. 
+### 🛠️ I work with:
+C#/.NET, C++, Python, SQL, and whatever else gets the job done. I'm into:
+- ⚡ Performance optimization
+- 🔍 Machine vision & diagnostics
+- 🧠 Smarter developer tooling
+- 🧰 Real-time data systems
 
-## Tech I work with
-- C# / .NET for desktop applications and backend services
-- C++ for performance-critical applications 
-- Python for automation and data processing
-- SQL for database work
-- Git & CI/CD pipelines
+### 🧪 Currently experimenting with:
+- Building plug-and-play automation tools
+- Making my CI/CD setups faster and smarter
+- Exploring computer vision outside of manufacturing
 
-## Current interests
-- ⚡ High-performance .NET applications
-- 🔍 Computer vision for defect detection
-- 🚀 Real-time processing and optimization
-- 🔧 Tool development for industrial applications
-
-Feel free to check out my repositories or reach out if you'd like to collaborate.
+If you’re into performance, tooling, or just solving hard problems — check out my repos or [sponsor my work](https://github.com/sponsors/dylanparsons). Let’s build cool things.
