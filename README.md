@@ -1,5 +1,7 @@
 # Hi there, I'm Dylan 👋
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=github)](https://github.com/sponsors/dylanparsons)
+
 Software engineer working with C++, C#, and Python.
 
 ## What I do
