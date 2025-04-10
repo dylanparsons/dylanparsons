@@ -1,7 +1,27 @@
-I’m Dylan, and I build fast, practical tools for real-time systems, automation, and computer vision.
+Hey, I’m Dylan.
+I build high-performance tools for real-time systems, automation, and computer vision.
 
-I like software that disappears into your workflow—tools that make things faster, cleaner, or just less annoying.
+My focus is on practical solutions—speeding up workflows, solving system bottlenecks, and creating developer tools that save time. I like working where performance and usability intersect.
 
-Most of my work is in .NET, C++, and Python. I’ve built everything from production-line defect detectors to custom CI pipelines, and I’m always chasing ways to make systems more responsive and maintainable.
+Tech I use:
+C#/.NET, C++, Python, SQL, and whatever else gets the job done.
 
-Sponsorship helps me explore side projects, open source contributions, and occasionally buy a weird new sensor or some dog treats for my shop assistant.
+Areas of interest:
+
+    Performance optimization
+
+    Machine vision and diagnostics
+
+    Developer tooling
+
+    Real-time data systems
+
+Current side projects:
+
+    Plug-and-play automation tools
+
+    Faster, smarter CI/CD setups
+
+    Applying computer vision outside of manufacturing
+
+If you're into any of that, feel free to check out my repos or sponsor my work. Let’s build something useful.
